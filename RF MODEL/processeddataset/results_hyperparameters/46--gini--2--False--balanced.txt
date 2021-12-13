@@ -1,0 +1,2 @@
+Label dimension: 1
+Input dimension: 164776
